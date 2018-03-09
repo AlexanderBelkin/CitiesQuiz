@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestGame</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="place">Place</string>
+    <string name="cities_placed">%s cities placed</string>
+    <string name="km_left">%s kilometers left</string>
+    <string name="select_location">Select location of %s</string>
+    <string name="next">Next</string>
+    <string name="distance">Distance %s km</string>
+    <string name="game_complete_title">Completed</string>
+    <string name="game_over_title">Game over</string>
+    <string name="game_complete_message">Game score %s</string>
+    <string name="place_pin">Place pin on map</string>
+</resources>

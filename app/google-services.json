@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "141093053312",
+    "firebase_url": "https://testgame-96280.firebaseio.com",
+    "project_id": "testgame-96280",
+    "storage_bucket": "testgame-96280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141093053312:android:f1b773a440c84479",
+        "android_client_info": {
+          "package_name": "com.alex.testgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141093053312-jf9s8vp18a4envnkmk545c8dm6sp6gi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWhFbWT5ODsC7fFE9mzjWi4k_XcYlBWyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
